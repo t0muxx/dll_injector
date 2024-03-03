@@ -1,0 +1,3 @@
+[submodule "libfenetre"]
+	path = libfenetre
+	url = https://github.com/t0muxx/libfenetre.git
